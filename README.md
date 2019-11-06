@@ -1,4 +1,4 @@
 # ubuntu-github
-this reoposis my guide to how to use github on ubuntu
-
-# END
+this reopos is my guide to how to use github on ubuntu
+demo.py and pic.jpg is test file.
+#未完待续 
