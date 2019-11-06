@@ -1,2 +1,4 @@
 # ubuntu-github
-how to use github on ubuntu
+this reoposis my guide to how to use github on ubuntu
+
+# END
