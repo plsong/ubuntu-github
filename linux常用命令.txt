@@ -1,0 +1,24 @@
+*****系统操作
+
+打开终端(Terminal): Ctrl+Alt+T
+关闭终端：Ctrl+D
+结束进程：Ctrl+C
+切换到/回桌面:Win+D
+查看后台活动窗口：Win，用方向键去选择相应进程
+
+关机: poweroff
+      shutdown now（立刻关机）
+
+****文件（夹）操作
+新建文件夹： mkdir 文件夹名
+删除文件夹： rmdir 文件夹名
+
+新建文本文件：vim 文件名
+删除文件： rm 文件名
+
+****打开应用
+打开谷歌浏览器：google-chromw
+打开火狐浏览器：firefox
+
+
+

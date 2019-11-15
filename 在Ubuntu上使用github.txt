@@ -1,5 +1,5 @@
-
-入门篇----如何clone自己的github项目，并修改后上传
+入门篇----
+二、如何clone自己的github项目，并修改后上传
 
 (1) 在Ubuntu上安装git: 
 sudo apt-get install git
@@ -22,3 +22,5 @@ git commit -m ' ' (' ' 中添加描述)
 
 (7) 上传-push
 按照提示，输入用户名和密码就ok了，这样自己
+
+
